@@ -1,0 +1,1 @@
+(function (greet){console.log(greet+"salman")})("good morning")// immediately invokes
